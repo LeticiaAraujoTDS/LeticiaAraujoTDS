@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeticiaAraujoTDS&show_icons=true&count_private=true&hide_border=true&title_color=D9EAFD&icon_color=D9EAFD&text_color=D9EAFD&bg_color=D9EAFD" alt=" Letícia github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeticiaAraujoTDS&show_icons=true&count_private=true&hide_border=true&title_color=D9EAFD&icon_color=D9EAFD&text_color=D9EAFD&bg_color=0D1117" alt=" Letícia github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAraujoTDS&layout=compact&hide_border=true&title_color=D9EAFD&text_color=D9EAFD&bg_color=0d1117" />
 </div>
 
