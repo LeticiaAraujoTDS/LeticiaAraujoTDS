@@ -4,8 +4,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeticiaAraujoTDS&show_icons=true&count_private=true&hide_border=true&title_color=8970a8&icon_color=8970a8&text_color=8970a8&bg_color=0D1117" alt=" Letícia github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAraujoTDS&layout=compact&hide_border=true&title_color=8970a8&text_color=8970a8&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeticiaAraujoTDS&show_icons=true&count_private=true&hide_border=true&title_color=EF88AD&icon_color=EF88AD&text_color=EF88AD&bg_color=0D1117" alt=" Letícia github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAraujoTDS&layout=compact&hide_border=true&title_color=EF88AD&text_color=EF88AD&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeticiaAraujoTDS&bg_color=000000&color=ab97c4&line=ab97c4&point=cfbee5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -28,4 +28,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LeticiaAraujoTDS}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8970a8&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EF88AD&height=120&section=footer"/>
