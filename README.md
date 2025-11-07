@@ -10,9 +10,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeticiaAraujoTDS&bg_color=000000&color=FFC1DA&line=FFC1DA&point=FF90BB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeticiaAraujoTDS&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center">  
 <a href = "mailto:leticia.araujo.tds2023@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
